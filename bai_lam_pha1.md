@@ -1,9 +1,9 @@
 # BÀI LÀM PHA 1 – HACKATHON 02
 
 - **Mã đề:** 07
-- **Họ tên:**
-- **Lớp:**
-- **Link repository Pha1:**
+- **Họ tên:** Huỳnh Chí Thiện
+- **Lớp:** CNTT2
+- **Link repository Pha1:** 
 
 > Pha 1 (70 phút đầu, KHÔNG dùng AI). Viết xong, kéo thả file này vào repository Pha1 trước mốc giờ giám thị công bố.
 
